@@ -21,9 +21,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Generated project outputs
-figures/
-results/
 
 # Temporary files
 *.tmp

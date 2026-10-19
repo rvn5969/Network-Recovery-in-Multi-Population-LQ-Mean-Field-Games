@@ -1,0 +1,7 @@
+horizon,method,relative_offdiag_frobenius_error
+finite,Pointwise OLS,0.06880638665073317
+finite,CF Pointwise OLS,0.025559313149134275
+finite,Martingale,0.023474683001628156
+finite,CF Martingale,0.023543661422945512
+infinite,Exact OU Transition,0.019136588852067545
+infinite,Kutoyants Continuous-Time,0.02542571820675725

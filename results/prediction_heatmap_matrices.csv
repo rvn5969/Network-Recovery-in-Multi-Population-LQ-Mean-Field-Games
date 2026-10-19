@@ -1,0 +1,301 @@
+horizon,method,matrix_type,row,col,value
+finite,Pointwise OLS,truth,0,0,0.0
+finite,Pointwise OLS,estimate,0,0,0.0
+finite,Pointwise OLS,truth,0,1,1.2
+finite,Pointwise OLS,estimate,0,1,1.2978342436954138
+finite,Pointwise OLS,truth,0,2,0.0
+finite,Pointwise OLS,estimate,0,2,0.002737478972748372
+finite,Pointwise OLS,truth,0,3,0.0
+finite,Pointwise OLS,estimate,0,3,-0.015475285309651539
+finite,Pointwise OLS,truth,0,4,0.0
+finite,Pointwise OLS,estimate,0,4,-0.011896888310229833
+finite,Pointwise OLS,truth,1,0,0.9
+finite,Pointwise OLS,estimate,1,0,1.0065792659882622
+finite,Pointwise OLS,truth,1,1,0.0
+finite,Pointwise OLS,estimate,1,1,0.0
+finite,Pointwise OLS,truth,1,2,-1.1
+finite,Pointwise OLS,estimate,1,2,-1.0889564552168813
+finite,Pointwise OLS,truth,1,3,0.0
+finite,Pointwise OLS,estimate,1,3,-0.013612662247005905
+finite,Pointwise OLS,truth,1,4,0.0
+finite,Pointwise OLS,estimate,1,4,-0.0118604179748038
+finite,Pointwise OLS,truth,2,0,0.0
+finite,Pointwise OLS,estimate,2,0,0.033007723144426515
+finite,Pointwise OLS,truth,2,1,1.3
+finite,Pointwise OLS,estimate,2,1,1.329938153212911
+finite,Pointwise OLS,truth,2,2,0.0
+finite,Pointwise OLS,estimate,2,2,0.0
+finite,Pointwise OLS,truth,2,3,1.0
+finite,Pointwise OLS,estimate,2,3,1.0398398784637928
+finite,Pointwise OLS,truth,2,4,0.0
+finite,Pointwise OLS,estimate,2,4,-0.01824584565489917
+finite,Pointwise OLS,truth,3,0,0.0
+finite,Pointwise OLS,estimate,3,0,-0.012487537206159742
+finite,Pointwise OLS,truth,3,1,0.0
+finite,Pointwise OLS,estimate,3,1,0.006419807047715957
+finite,Pointwise OLS,truth,3,2,-0.85
+finite,Pointwise OLS,estimate,3,2,-0.8301771930320371
+finite,Pointwise OLS,truth,3,3,0.0
+finite,Pointwise OLS,estimate,3,3,0.0
+finite,Pointwise OLS,truth,3,4,1.25
+finite,Pointwise OLS,estimate,3,4,1.3294779598747388
+finite,Pointwise OLS,truth,4,0,0.0
+finite,Pointwise OLS,estimate,4,0,0.023396666625311684
+finite,Pointwise OLS,truth,4,1,0.0
+finite,Pointwise OLS,estimate,4,1,-0.03591345866988269
+finite,Pointwise OLS,truth,4,2,0.0
+finite,Pointwise OLS,estimate,4,2,0.02951742769760642
+finite,Pointwise OLS,truth,4,3,1.1
+finite,Pointwise OLS,estimate,4,3,1.2018535563885495
+finite,Pointwise OLS,truth,4,4,0.0
+finite,Pointwise OLS,estimate,4,4,0.0
+finite,CF Pointwise OLS,truth,0,0,0.0
+finite,CF Pointwise OLS,estimate,0,0,0.0
+finite,CF Pointwise OLS,truth,0,1,1.2
+finite,CF Pointwise OLS,estimate,0,1,1.1987411094532678
+finite,CF Pointwise OLS,truth,0,2,0.0
+finite,CF Pointwise OLS,estimate,0,2,-0.015167220757395235
+finite,CF Pointwise OLS,truth,0,3,0.0
+finite,CF Pointwise OLS,estimate,0,3,-0.0021511715020964355
+finite,CF Pointwise OLS,truth,0,4,0.0
+finite,CF Pointwise OLS,estimate,0,4,-0.015915934991558096
+finite,CF Pointwise OLS,truth,1,0,0.9
+finite,CF Pointwise OLS,estimate,1,0,0.924951592421268
+finite,CF Pointwise OLS,truth,1,1,0.0
+finite,CF Pointwise OLS,estimate,1,1,0.0
+finite,CF Pointwise OLS,truth,1,2,-1.1
+finite,CF Pointwise OLS,estimate,1,2,-1.0939636387796783
+finite,CF Pointwise OLS,truth,1,3,0.0
+finite,CF Pointwise OLS,estimate,1,3,0.0009578787010284663
+finite,CF Pointwise OLS,truth,1,4,0.0
+finite,CF Pointwise OLS,estimate,1,4,0.0015585625642741618
+finite,CF Pointwise OLS,truth,2,0,0.0
+finite,CF Pointwise OLS,estimate,2,0,0.01227821376939104
+finite,CF Pointwise OLS,truth,2,1,1.3
+finite,CF Pointwise OLS,estimate,2,1,1.3373688216524233
+finite,CF Pointwise OLS,truth,2,2,0.0
+finite,CF Pointwise OLS,estimate,2,2,0.0
+finite,CF Pointwise OLS,truth,2,3,1.0
+finite,CF Pointwise OLS,estimate,2,3,1.0254261735928205
+finite,CF Pointwise OLS,truth,2,4,0.0
+finite,CF Pointwise OLS,estimate,2,4,-0.0317652126673375
+finite,CF Pointwise OLS,truth,3,0,0.0
+finite,CF Pointwise OLS,estimate,3,0,-0.00045688652980619267
+finite,CF Pointwise OLS,truth,3,1,0.0
+finite,CF Pointwise OLS,estimate,3,1,0.02477668957907893
+finite,CF Pointwise OLS,truth,3,2,-0.85
+finite,CF Pointwise OLS,estimate,3,2,-0.8291445456572439
+finite,CF Pointwise OLS,truth,3,3,0.0
+finite,CF Pointwise OLS,estimate,3,3,0.0
+finite,CF Pointwise OLS,truth,3,4,1.25
+finite,CF Pointwise OLS,estimate,3,4,1.2359304858866027
+finite,CF Pointwise OLS,truth,4,0,0.0
+finite,CF Pointwise OLS,estimate,4,0,0.023750770135121918
+finite,CF Pointwise OLS,truth,4,1,0.0
+finite,CF Pointwise OLS,estimate,4,1,-0.00846955941086419
+finite,CF Pointwise OLS,truth,4,2,0.0
+finite,CF Pointwise OLS,estimate,4,2,0.007358366918938979
+finite,CF Pointwise OLS,truth,4,3,1.1
+finite,CF Pointwise OLS,estimate,4,3,1.0969576234828535
+finite,CF Pointwise OLS,truth,4,4,0.0
+finite,CF Pointwise OLS,estimate,4,4,0.0
+finite,Martingale,truth,0,0,0.0
+finite,Martingale,estimate,0,0,0.0
+finite,Martingale,truth,0,1,1.2
+finite,Martingale,estimate,0,1,1.1910473847500511
+finite,Martingale,truth,0,2,0.0
+finite,Martingale,estimate,0,2,-0.003624539852489972
+finite,Martingale,truth,0,3,0.0
+finite,Martingale,estimate,0,3,0.0018291164445353165
+finite,Martingale,truth,0,4,0.0
+finite,Martingale,estimate,0,4,-0.019257663323699256
+finite,Martingale,truth,1,0,0.9
+finite,Martingale,estimate,1,0,0.9296330538853893
+finite,Martingale,truth,1,1,0.0
+finite,Martingale,estimate,1,1,0.0
+finite,Martingale,truth,1,2,-1.1
+finite,Martingale,estimate,1,2,-1.0922933718132872
+finite,Martingale,truth,1,3,0.0
+finite,Martingale,estimate,1,3,0.005150052259841879
+finite,Martingale,truth,1,4,0.0
+finite,Martingale,estimate,1,4,-0.008544331614677983
+finite,Martingale,truth,2,0,0.0
+finite,Martingale,estimate,2,0,-0.006203773304474465
+finite,Martingale,truth,2,1,1.3
+finite,Martingale,estimate,2,1,1.320678131710716
+finite,Martingale,truth,2,2,0.0
+finite,Martingale,estimate,2,2,0.0
+finite,Martingale,truth,2,3,1.0
+finite,Martingale,estimate,2,3,1.0218697237699514
+finite,Martingale,truth,2,4,0.0
+finite,Martingale,estimate,2,4,-0.036681116126347856
+finite,Martingale,truth,3,0,0.0
+finite,Martingale,estimate,3,0,-0.01163378191271398
+finite,Martingale,truth,3,1,0.0
+finite,Martingale,estimate,3,1,0.017798144844153024
+finite,Martingale,truth,3,2,-0.85
+finite,Martingale,estimate,3,2,-0.8376798574058107
+finite,Martingale,truth,3,3,0.0
+finite,Martingale,estimate,3,3,0.0
+finite,Martingale,truth,3,4,1.25
+finite,Martingale,estimate,3,4,1.2393746670696175
+finite,Martingale,truth,4,0,0.0
+finite,Martingale,estimate,4,0,0.022853734106964667
+finite,Martingale,truth,4,1,0.0
+finite,Martingale,estimate,4,1,-0.016176993291036536
+finite,Martingale,truth,4,2,0.0
+finite,Martingale,estimate,4,2,0.0017784838100722272
+finite,Martingale,truth,4,3,1.1
+finite,Martingale,estimate,4,3,1.0959210814932332
+finite,Martingale,truth,4,4,0.0
+finite,Martingale,estimate,4,4,0.0
+finite,CF Martingale,truth,0,0,0.0
+finite,CF Martingale,estimate,0,0,0.0
+finite,CF Martingale,truth,0,1,1.2
+finite,CF Martingale,estimate,0,1,1.1913491412190815
+finite,CF Martingale,truth,0,2,0.0
+finite,CF Martingale,estimate,0,2,-0.0038212838434914984
+finite,CF Martingale,truth,0,3,0.0
+finite,CF Martingale,estimate,0,3,0.0021072027160206398
+finite,CF Martingale,truth,0,4,0.0
+finite,CF Martingale,estimate,0,4,-0.019599012561384466
+finite,CF Martingale,truth,1,0,0.9
+finite,CF Martingale,estimate,1,0,0.9300136714038763
+finite,CF Martingale,truth,1,1,0.0
+finite,CF Martingale,estimate,1,1,0.0
+finite,CF Martingale,truth,1,2,-1.1
+finite,CF Martingale,estimate,1,2,-1.0924218015055074
+finite,CF Martingale,truth,1,3,0.0
+finite,CF Martingale,estimate,1,3,0.004889725450540683
+finite,CF Martingale,truth,1,4,0.0
+finite,CF Martingale,estimate,1,4,-0.0081996340739116
+finite,CF Martingale,truth,2,0,0.0
+finite,CF Martingale,estimate,2,0,-0.00564306152708657
+finite,CF Martingale,truth,2,1,1.3
+finite,CF Martingale,estimate,2,1,1.3200802204669908
+finite,CF Martingale,truth,2,2,0.0
+finite,CF Martingale,estimate,2,2,0.0
+finite,CF Martingale,truth,2,3,1.0
+finite,CF Martingale,estimate,2,3,1.0215655042561622
+finite,CF Martingale,truth,2,4,0.0
+finite,CF Martingale,estimate,2,4,-0.03663421193752853
+finite,CF Martingale,truth,3,0,0.0
+finite,CF Martingale,estimate,3,0,-0.01155017945626038
+finite,CF Martingale,truth,3,1,0.0
+finite,CF Martingale,estimate,3,1,0.018549664798712697
+finite,CF Martingale,truth,3,2,-0.85
+finite,CF Martingale,estimate,3,2,-0.8377034713509833
+finite,CF Martingale,truth,3,3,0.0
+finite,CF Martingale,estimate,3,3,0.0
+finite,CF Martingale,truth,3,4,1.25
+finite,CF Martingale,estimate,3,4,1.2398924555440323
+finite,CF Martingale,truth,4,0,0.0
+finite,CF Martingale,estimate,4,0,0.023158215857636555
+finite,CF Martingale,truth,4,1,0.0
+finite,CF Martingale,estimate,4,1,-0.01697463019117158
+finite,CF Martingale,truth,4,2,0.0
+finite,CF Martingale,estimate,4,2,0.0016786622172582997
+finite,CF Martingale,truth,4,3,1.1
+finite,CF Martingale,estimate,4,3,1.0956931105383119
+finite,CF Martingale,truth,4,4,0.0
+finite,CF Martingale,estimate,4,4,0.0
+infinite,Exact OU Transition,truth,0,0,0.0
+infinite,Exact OU Transition,estimate,0,0,0.0
+infinite,Exact OU Transition,truth,0,1,1.2
+infinite,Exact OU Transition,estimate,0,1,1.2071444055042766
+infinite,Exact OU Transition,truth,0,2,0.0
+infinite,Exact OU Transition,estimate,0,2,0.006561577348466469
+infinite,Exact OU Transition,truth,0,3,0.0
+infinite,Exact OU Transition,estimate,0,3,0.022220059572414342
+infinite,Exact OU Transition,truth,0,4,0.0
+infinite,Exact OU Transition,estimate,0,4,-0.0023681372119109933
+infinite,Exact OU Transition,truth,1,0,0.9
+infinite,Exact OU Transition,estimate,1,0,0.8990680568182393
+infinite,Exact OU Transition,truth,1,1,0.0
+infinite,Exact OU Transition,estimate,1,1,0.0
+infinite,Exact OU Transition,truth,1,2,-1.1
+infinite,Exact OU Transition,estimate,1,2,-1.0981724314322532
+infinite,Exact OU Transition,truth,1,3,0.0
+infinite,Exact OU Transition,estimate,1,3,0.006220544175518774
+infinite,Exact OU Transition,truth,1,4,0.0
+infinite,Exact OU Transition,estimate,1,4,-0.01277713045889455
+infinite,Exact OU Transition,truth,2,0,0.0
+infinite,Exact OU Transition,estimate,2,0,-0.012445759278611121
+infinite,Exact OU Transition,truth,2,1,1.3
+infinite,Exact OU Transition,estimate,2,1,1.292313007258187
+infinite,Exact OU Transition,truth,2,2,0.0
+infinite,Exact OU Transition,estimate,2,2,0.0
+infinite,Exact OU Transition,truth,2,3,1.0
+infinite,Exact OU Transition,estimate,2,3,0.9954936537127355
+infinite,Exact OU Transition,truth,2,4,0.0
+infinite,Exact OU Transition,estimate,2,4,0.004230438564000189
+infinite,Exact OU Transition,truth,3,0,0.0
+infinite,Exact OU Transition,estimate,3,0,0.03027950210402793
+infinite,Exact OU Transition,truth,3,1,0.0
+infinite,Exact OU Transition,estimate,3,1,-0.032132032903559926
+infinite,Exact OU Transition,truth,3,2,-0.85
+infinite,Exact OU Transition,estimate,3,2,-0.8597161213715097
+infinite,Exact OU Transition,truth,3,3,0.0
+infinite,Exact OU Transition,estimate,3,3,0.0
+infinite,Exact OU Transition,truth,3,4,1.25
+infinite,Exact OU Transition,estimate,3,4,1.2574485390003385
+infinite,Exact OU Transition,truth,4,0,0.0
+infinite,Exact OU Transition,estimate,4,0,-0.005514046687095488
+infinite,Exact OU Transition,truth,4,1,0.0
+infinite,Exact OU Transition,estimate,4,1,0.009600174652367505
+infinite,Exact OU Transition,truth,4,2,0.0
+infinite,Exact OU Transition,estimate,4,2,0.01603606542096375
+infinite,Exact OU Transition,truth,4,3,1.1
+infinite,Exact OU Transition,estimate,4,3,1.10117382922318
+infinite,Exact OU Transition,truth,4,4,0.0
+infinite,Exact OU Transition,estimate,4,4,0.0
+infinite,Kutoyants Continuous-Time,truth,0,0,0.0
+infinite,Kutoyants Continuous-Time,estimate,0,0,0.0
+infinite,Kutoyants Continuous-Time,truth,0,1,1.2
+infinite,Kutoyants Continuous-Time,estimate,0,1,1.1857996342285508
+infinite,Kutoyants Continuous-Time,truth,0,2,0.0
+infinite,Kutoyants Continuous-Time,estimate,0,2,0.002498015199112241
+infinite,Kutoyants Continuous-Time,truth,0,3,0.0
+infinite,Kutoyants Continuous-Time,estimate,0,3,0.021373254432946475
+infinite,Kutoyants Continuous-Time,truth,0,4,0.0
+infinite,Kutoyants Continuous-Time,estimate,0,4,-0.0024391632776865043
+infinite,Kutoyants Continuous-Time,truth,1,0,0.9
+infinite,Kutoyants Continuous-Time,estimate,1,0,0.8831895553036746
+infinite,Kutoyants Continuous-Time,truth,1,1,0.0
+infinite,Kutoyants Continuous-Time,estimate,1,1,0.0
+infinite,Kutoyants Continuous-Time,truth,1,2,-1.1
+infinite,Kutoyants Continuous-Time,estimate,1,2,-1.0779649813588934
+infinite,Kutoyants Continuous-Time,truth,1,3,0.0
+infinite,Kutoyants Continuous-Time,estimate,1,3,0.0027243604724486756
+infinite,Kutoyants Continuous-Time,truth,1,4,0.0
+infinite,Kutoyants Continuous-Time,estimate,1,4,-0.013045063765361718
+infinite,Kutoyants Continuous-Time,truth,2,0,0.0
+infinite,Kutoyants Continuous-Time,estimate,2,0,-0.008727764764507904
+infinite,Kutoyants Continuous-Time,truth,2,1,1.3
+infinite,Kutoyants Continuous-Time,estimate,2,1,1.268404678966687
+infinite,Kutoyants Continuous-Time,truth,2,2,0.0
+infinite,Kutoyants Continuous-Time,estimate,2,2,0.0
+infinite,Kutoyants Continuous-Time,truth,2,3,1.0
+infinite,Kutoyants Continuous-Time,estimate,2,3,0.9770654818932267
+infinite,Kutoyants Continuous-Time,truth,2,4,0.0
+infinite,Kutoyants Continuous-Time,estimate,2,4,0.007737070966857746
+infinite,Kutoyants Continuous-Time,truth,3,0,0.0
+infinite,Kutoyants Continuous-Time,estimate,3,0,0.029310375935440232
+infinite,Kutoyants Continuous-Time,truth,3,1,0.0
+infinite,Kutoyants Continuous-Time,estimate,3,1,-0.03488613818943084
+infinite,Kutoyants Continuous-Time,truth,3,2,-0.85
+infinite,Kutoyants Continuous-Time,estimate,3,2,-0.8436163969022671
+infinite,Kutoyants Continuous-Time,truth,3,3,0.0
+infinite,Kutoyants Continuous-Time,estimate,3,3,0.0
+infinite,Kutoyants Continuous-Time,truth,3,4,1.25
+infinite,Kutoyants Continuous-Time,estimate,3,4,1.2350029183415607
+infinite,Kutoyants Continuous-Time,truth,4,0,0.0
+infinite,Kutoyants Continuous-Time,estimate,4,0,-0.005389598213324381
+infinite,Kutoyants Continuous-Time,truth,4,1,0.0
+infinite,Kutoyants Continuous-Time,estimate,4,1,0.008931742747208544
+infinite,Kutoyants Continuous-Time,truth,4,2,0.0
+infinite,Kutoyants Continuous-Time,estimate,4,2,0.012961604537937816
+infinite,Kutoyants Continuous-Time,truth,4,3,1.1
+infinite,Kutoyants Continuous-Time,estimate,4,3,1.0815645037701147
+infinite,Kutoyants Continuous-Time,truth,4,4,0.0
+infinite,Kutoyants Continuous-Time,estimate,4,4,0.0
